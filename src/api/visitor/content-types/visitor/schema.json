@@ -4,10 +4,11 @@
   "info": {
     "singularName": "visitor",
     "pluralName": "visitors",
-    "displayName": "visitor"
+    "displayName": "visitor",
+    "description": ""
   },
   "options": {
-    "draftAndPublish": true
+    "draftAndPublish": false
   },
   "pluginOptions": {},
   "attributes": {
