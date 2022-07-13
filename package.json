@@ -11,8 +11,6 @@
     "heroku": "heroku logs --tail -a personal-strapi-api"
   },
   "devDependencies": {
-    "better-sqlite3": "^7.5.1",
-    "sqlite": "^4.0.25",
     "sqlite3": "^5.0.4"
   },
   "dependencies": {
