@@ -8,7 +8,7 @@
     "start": "strapi start",
     "build": "strapi build",
     "strapi": "strapi",
-    "heroku": "heroku logs --tail -a personal-strapi-api"
+    "heroku": "heroku logs --tail -a pk-portfolio-api"
   },
   "devDependencies": {
     "sqlite3": "^5.0.2"
